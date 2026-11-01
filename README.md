@@ -1,1 +1,1 @@
-# Soujanya-Js-task8-Mini-Project
+# Soujanya-Js-task8 and Mini-Project
